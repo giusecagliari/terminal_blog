@@ -1,4 +1,4 @@
-install package pyton for linux
+install package python for linux
 install mongodb
 
 for start mongo instance use command:
