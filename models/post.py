@@ -2,7 +2,11 @@ import uuid
 from database import Database
 import datetime
 
+<<<<<<< HEAD
 __author__ = 'giusecagliari'
+=======
+__author__ = 'giuseca'
+>>>>>>> 1a154d9a3890f7c22580dd4b570e7fdc53ac6d92
 
 
 class Post(object):
