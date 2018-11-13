@@ -1,6 +1,6 @@
 import pymongo
 
-__author__ = 'jslvtr'
+__author__ = 'giusecagliari'
 
 
 class Database(object):

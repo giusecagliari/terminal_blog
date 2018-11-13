@@ -1,7 +1,7 @@
 from database import Database
 from models.blog import Blog
 
-__author__ = 'jslvtr'
+__author__ = 'giusecagliari'
 
 
 class Menu(object):
